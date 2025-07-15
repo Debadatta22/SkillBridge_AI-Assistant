@@ -349,6 +349,40 @@ Here’s what we plan next for **SkillBridge**:
 
 </div>
 
+## 🚀 Deployment Workflow
+
+Our deployment journey evolved through three major stages to balance development control with enhanced user experience:
+
+### 🛠️ Development in VS Code
+We began our project in **Visual Studio Code**, where we structured and implemented the entire frontend logic, components, and styling. This environment allowed us to maintain complete control over versioning, component-driven architecture, and initial testing.
+
+### ⚡ Transition to Bolt Platform
+After establishing our base in VS Code, we transitioned to the **Bolt platform** to focus on refining the user interface. Bolt offered a more **reactive and visually intuitive environment**, allowing us to:
+- Enhance our existing UI with more **dynamic design elements**
+- Test animations and transitions in real time
+- Improve overall **user experience and responsiveness**
+
+This shift allowed us to evolve our static VS Code setup into a more polished, production-ready frontend.
+
+### 🌐 Deployment with Netlify
+For hosting and public access, we deployed our final build using **Netlify**, a platform that enabled us to:
+- Host our site for **free**
+- Automatically generate a **live URL** on deployment
+- Access the app from **any device without rerunning local servers**
+
+This setup ensures that our project is always live and accessible with a single click, making testing, feedback collection, and demonstration seamless.
+
+---
+
+✅ **Summary**  
+Our workflow:
+1. **Code + Build** → in VS Code  
+2. **Design Enhancement** → on Bolt  
+3. **Deploy & Host** → via Netlify
+
+This three-step approach helped us create a modern, responsive, and accessible application without sacrificing control or efficiency.
+
+
 ## 🏁 Conclusion
 In conclusion, SkillBridge represents a significant step forward in the realm of AI-powered learning platforms. Through our collaborative efforts, we have successfully created an interactive and engaging environment that not only facilitates the acquisition of technology skills but also motivates users through gamification and personalized AI assistance.
 
