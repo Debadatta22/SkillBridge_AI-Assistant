@@ -6,6 +6,9 @@ We're thrilled to present SkillBridge, an AI-powered learning platform designed 
 
 ## 🚀 [**Click Me: AI Assistance**](https://spiffy-semolina-dc9ddb.netlify.app/)
 
+## Download the files from here -
+### 🔗 [SkillBridge_Files](  https://drive.google.com/drive/folders/1-eHz2SIzBfF8aAMWJSFmYsNt5y9tiAs3?usp=sharing)
+
 
 
 ## ⚡ SkillBridge – AI-Powered Learning Companion
