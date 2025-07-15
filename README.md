@@ -2,6 +2,9 @@
 
 We're thrilled to present SkillBridge, an AI-powered learning platform designed to help users master technology skills through interactive courses, AI assistance, and gamified progress tracking. As a team of two, we've meticulously crafted this application to provide a seamless and engaging learning experience.
 
+<img width="1340" height="579" alt="image" src="https://github.com/user-attachments/assets/647e5182-ec6c-420b-8f86-6412d166a2ab" />
+
+
 ## ⚡ SkillBridge – AI-Powered Learning Companion
 Welcome to SkillBridge, a full-stack, AI-integrated learning and productivity platform designed by a team of two developers. This project brings together modern frontend frameworks, real-time interactivity, gamified learning tools, and AI-based features to supercharge user engagement and learning outcomes.
 
